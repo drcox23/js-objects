@@ -50,6 +50,9 @@ console.log("My dog " + dog.name + " is " + dog.age + " year old and likes to " 
   Console.log the object.
 */
 
+var kicks = {};
+
+
 
 /* 
 
